@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 `Basic file based whitelist using a trie`;
 
 const readline = require("readline");

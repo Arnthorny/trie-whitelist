@@ -13,5 +13,5 @@ $ npm install @elnoir/trie-whitelist
 ## Usage
 
 ```sh
-$ node whitelist.js whitelist_file < input_stream/file
+$ npx trie-whitelist whitelist_file < input_stream/file
 ```
