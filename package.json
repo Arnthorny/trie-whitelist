@@ -1,0 +1,19 @@
+{
+  "name": "@elnoir/trie-whitelist",
+  "version": "1.0.0",
+  "description": "A whitelisting package based on trie data structures",
+  "main": "whitelist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnthorny/trie-whitelist.git"
+  },
+  "author": "Tea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnthorny/trie-whitelist/issues"
+  },
+  "homepage": "https://github.com/Arnthorny/trie-whitelist#readme"
+}
