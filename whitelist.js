@@ -5,7 +5,7 @@ const readline = require("readline");
 const fs = require("fs");
 const TrieST = require("./tries.js").TrieST;
 
-const trie_root = new TrieST().init((is_root = true));
+const trie_root = new TrieST().init();
 
 // Get Whitelist file from command line and read into variable
 const whitelistFile = process.argv[2];

@@ -1,6 +1,6 @@
 {
   "name": "@elnoir/trie-whitelist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A whitelisting package based on trie data structures",
   "main": "whitelist.js",
   "bin": "./whitelist.js",
